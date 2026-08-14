@@ -5,8 +5,7 @@ Feito sob as orientações do professor Nilson., como requisito parcial para men
 | Integrantes | Função |
 | :- | :- |
 | Anna Beatriz | Pesquisa - Estudo de cases: empresas que possuem o aplicativo como core do business |
-| Caio Alexandre | Pesquisa - Carreiras e perfis profissionais |
+| Caio Alexandre | Pesquisa - Carreiras e perfis profissionais; Setores e indústrias que mais consomem/investem em soluções mobiles |
 | Enzo Santiago | Formatação do Documento e Introdução e Conclusão |
 | Gabriel Do Carmo | Pesquisa - Perspectivas futuras e projeções de mercado |
 | Guilherme Angelim | Pesquisa - Crescimento e números do mercado global e nacional de aplicativos; e Slides |
-| Nathan Rodrigues | Pesquisa - Setores e indústrias que mais consomem/investem em soluções mobiles |
